@@ -13,10 +13,10 @@ The way it works is by utilising AWS SDK kit and ComputerInfo Class from .NET.  
 
 | Name | Description | Last Update |
 | --- | --- | --- |
-| AWS CloudWatch | Contains CloudWatch Source Code | 28th of August 2017   |
-| AWS Input | Contains AWS Config Source Code | 28th of August 2017  |
-| Installer | Contains the Source Code for the installer | 28th of August 2017  |
-| Package | Contains the compiled version and ready to use | 28th of August 2017  |
+| AWS CloudWatch | Contains CloudWatch Source Code | 7th of November 2017   |
+| AWS Input | Contains AWS Config Source Code | 7th of November 2017  |
+| Installer | Contains the Source Code for the installer | 7th of November 2017  |
+| Package | Contains the compiled version and ready to use | 7th of November 2017  |
 
 #### <a href="url"><img src="https://www.cuttingedgecreations.com/var/theme/images/instructions.png" align="left" height="30" width="30" ></a>Instructions
 
